@@ -1,5 +1,5 @@
 package test;
 
 public class Test {
-	int test = 6;
+	int test = 5;
 }
